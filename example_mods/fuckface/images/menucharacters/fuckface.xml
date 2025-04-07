@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fuckface.png"><SubTexture name="fuckface idle0000" x="434" y="396" width="419" height="337" frameX="-62" frameY="-131" frameWidth="500" frameHeight="500" />
+<SubTexture name="fuckface idle0001" x="435" y="0" width="421" height="381" frameX="-79" frameY="-87" frameWidth="500" frameHeight="500" />
+<SubTexture name="fuckface idle0002" x="0" y="0" width="435" height="396" frameX="-44" frameY="-72" frameWidth="500" frameHeight="500" />
+<SubTexture name="fuckface idle0003" x="0" y="396" width="434" height="369" frameX="-22" frameY="-99" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

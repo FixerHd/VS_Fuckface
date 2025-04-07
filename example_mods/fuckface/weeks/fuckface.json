@@ -1,0 +1,31 @@
+{
+	"storyName": "por que me gritas (pregunta)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "fuckface",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"emergencia capilar",
+			"fuckface",
+			[
+				40,
+				40,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"fuckface",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}
